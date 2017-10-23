@@ -9,7 +9,7 @@ Detect and identify the face of a specific person(owner).
 * OSX
 * Images of the owner and others
 
-Please put owner's images into [data/owner](https://github.com/davidchai21/Face-ID-Detector/data/owner/) and others' images [data/others](https://github.com/davidchai21/Face-ID-Detector/data/others/).
+Please put owner's images into [data/owner](https://github.com/davidchai21/Face-ID-Detector/tree/master/data/owner) and others' images [data/others](https://github.com/davidchai21/Face-ID-Detector/tree/master/data/others).
 
 ## How to run the code
 ### First, train the images.
